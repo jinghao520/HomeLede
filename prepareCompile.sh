@@ -7,6 +7,7 @@ disablePkgsList="
 ./package/lean/ipt2socks 
 ./feeds/packages/net/miniupnpd 
 ./feeds/packages/net/mwan3 
+./feeds/packages/net/sqm-scripts 
 ./feeds/packages/utils/ttyd 
 ./feeds/packages/utils/docker-ce 
 ./feeds/packages/utils/containerd 
