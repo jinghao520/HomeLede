@@ -13,7 +13,7 @@ function index()
 	entry({"admin", "status", "realtime", "rate_status"},
 		call("action_rate")).leaf = true
 	entry({"admin", "control", "nft-qos"}, cbi("nft-qos/nft-qos"),
-		_("Qos over Nftables"), 60)
+		_("Qos over Nftables"), 100)
 end
 
 function _action_rate(rv, n)
